@@ -1,2 +1,3 @@
 # Cleaning-Bot
-An autonomous room cleaning robot
+Making an autonomous room cleaning robot using go-to-goal algorithms on ATmega128 
+and Obstacle avoidance algo using Ultrasonic Sensors
